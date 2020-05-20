@@ -1,0 +1,1 @@
+add spin, each time it hits something, spin is reversed and halved, and half of the spin value added to the paddle (opposite to the spin)

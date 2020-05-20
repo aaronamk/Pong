@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O2 -DNDEBUG  -rdynamic CMakeFiles/main.dir/bin/main.cpp.o  -o main -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -lsfml-network libpong_core.a -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -lsfml-network 
